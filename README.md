@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=180&section=header&text=Welcome!&fontSize=40&fontColor=ffffff" />
 </p>
 
-# 👋🏻 Hello World! I'm César... 
+# 👋🏻 Hello, world! I'm César, a software analyst and developer who is passionate about technology and travel.
 
 <div align="center">
 
@@ -10,21 +10,23 @@
 
 </div>
 
----
+---  
 
 ## 🚀 About Me
 
-☕ Turning coffee into code.
+- ☕ Turning coffee into code.
 
-🎯 Learning something new every day.
+- 📚 Constantly improving my skills.
 
-🌱 Always exploring new tools and frameworks.
+- 🎯 Learning something new every day.
 
-⚡ Building projects and solving real-world problems.
+- 🌱 Always exploring new tools and frameworks.
 
-💻 Developer passionate about technology and continuous learning.
+- ⚡ Building projects and solving real-world problems.
 
-🌎 Travel enthusiast who enjoys exploring different cultures and perspectives.
+- 💻 Developer passionate about technology and continuous learning.
+
+- 🌎 Travel enthusiast who enjoys exploring different cultures and perspectives.
 
 ---
 
