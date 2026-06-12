@@ -14,15 +14,17 @@
 
 ## 🚀 About Me
 
-💻 Developer passionate about technology and continuous learning.
+☕ Turning coffee into code.
+
+🎯 Learning something new every day.
 
 🌱 Always exploring new tools and frameworks.
 
 ⚡ Building projects and solving real-world problems.
 
-☕ Turning coffee into code.
+💻 Developer passionate about technology and continuous learning.
 
-🎯 Learning something new every day.
+🌎 Travel enthusiast who enjoys exploring different cultures and perspectives.
 
 ---
 
