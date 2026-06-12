@@ -37,4 +37,6 @@
 <img align="right" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Hello+World!;Full-Stack+Developer;Always+Learning+New+Things;Building+Projects+%F0%9F%9A%80" />
 
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=120&section=footer"/>
+</p>
